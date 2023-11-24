@@ -2,4 +2,5 @@
 
 contributors -
 
-1. Jyotiranjan muduli
+1. Mohit Kumar
+2. Jyotiranjan muduli
